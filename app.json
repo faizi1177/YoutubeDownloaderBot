@@ -5,7 +5,7 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/OO7ROBOT/YoutubeDownloaderBot",
+  "repository": "https://github.com/faizi1177/YoutubeDownloaderBot",
   "success_url": "https://t.me/tg_utubebot",
   "website": "https://github.com/OO7ROBot/YoutubeDownloaderBot",
   "env": {
