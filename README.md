@@ -1,5 +1,5 @@
 # Youtube Downloader bot
-#### modified version of Aryan Vikash [YouTube download bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)
+#### modified version of Aryan Vikash [YouTube download bot](https://github.com/faizi11774/Youtube-Downloader-Bot)
 
 #
 
